@@ -5,7 +5,7 @@ echo "Gateway Benchmark Script"
 
 OSX="OSX"
 WIN="WIN"
-LINUX="WIN"
+LINUX="LINUX"
 UNKNOWN="UNKNOWN"
 PLATFORM=$UNKNOWN
 
